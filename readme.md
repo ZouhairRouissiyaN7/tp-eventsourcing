@@ -1,7 +1,6 @@
 # Rapport de Travaux Pratiques : Event Sourcing et CQRS avec Spring Boot, Axon Framework et Axon Server
 
 **Filière :** BDCC - Big Data & Cloud Computing  
-**Encadrant :** [Nom de l'encadrant]  
 **Étudiant :** Mohamed Zouhair ROUISSIYA
 
 ---
